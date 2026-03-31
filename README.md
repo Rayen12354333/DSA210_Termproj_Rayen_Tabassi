@@ -16,20 +16,10 @@ This project uses the [Food.com Recipes and Interactions](https://www.kaggle.com
 4. Install dependencies: `pip install -r requirements.txt`
 5. Run the notebooks in order inside the `/notebooks` folder
 
-The `/data` folder is excluded from this repo via `.gitignore`.
-
-## Repository Structure
-```
-DSA210_Termproj_Rayen_Tabassi/
-├── data/               # Not tracked – download instructions above
-├── notebooks/          # Jupyter notebooks for analysis
-├── requirements.txt    # Python dependencies
-└── README.md
-```
 
 ## Timeline
-- ✅ March 17 – Repo created
-- ✅ March 31 – Proposal submitted
+- March 17 – Repo created
+- March 31 – Proposal submitted
 - April 14 – EDA and hypothesis testing
 - May 5 – ML methods
 - May 18 – Final report
