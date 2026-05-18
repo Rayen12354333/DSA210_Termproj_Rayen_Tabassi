@@ -89,7 +89,7 @@ To connect the dataset to the MealMate context, several features are engineered:
 
 ## 🤖 AI Disclosure
 
-This project used Claude (Anthropic) to assist with generating the Machine Learning section (Section 7) of the notebook, including code for kNN, Decision Tree, Logistic Regression, Linear Regression, K-Means, and PCA. All code was reviewed, understood, and verified by the author before submission.
+This project used Claude (Anthropic) as an assistant during development. Claude was consulted for ideas, debugging guidance, and general feedback on the analysis approach. All code, analysis decisions, and conclusions are the author's own work.
 
 ---
 
